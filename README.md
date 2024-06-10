@@ -1,5 +1,6 @@
 # http-easy
 
+[![npm version](https://badge.fury.io/js/http-easy.svg)](https://badge.fury.io/js/http-easy)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
