@@ -1,0 +1,33 @@
+{
+  "name": "http-easy",
+  "version": "0.0.1",
+  "description": "A lightweight and intuitive API for making HTTP requests in Node.js applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aliezzahn/http-easy.git"
+  },
+  "keywords": [
+    "http",
+    "request",
+    "axios",
+    "api",
+    "node",
+    "client"
+  ],
+  "author": "aliezzahn",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aliezzahn/http-easy/issues"
+  },
+  "homepage": "https://github.com/aliezzahn/http-easy#readme",
+  "dependencies": {
+    "axios": "^1.7.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
